@@ -111,9 +111,8 @@ The client submits:
 The server recalculates `total` from the catalog and rejects mismatched payloads.
 
 
-``
 
-References:
+## References:
 
 Ecma International. (2024). *The ECMAScript 2024 language specification* (ECMA-262). https://tc39.es/ecma262/
 
