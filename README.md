@@ -109,6 +109,8 @@ The client submits:
 ```
 
 The server recalculates `total` from the catalog and rejects mismatched payloads.
+
+
 ``
 
 References:
