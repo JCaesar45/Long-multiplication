@@ -38,7 +38,7 @@ luxmerce/
                 ProductController.java
                 CheckoutController.java
                 GlobalExceptionHandler.java
-
+```
 ## Run the storefront
 
 Open `index.html` directly in a browser.
